@@ -1,5 +1,5 @@
 # cis424
-If you came here looking for CIS 424 files, you're in luck (if he hasn't changed them.
+If you came here looking for CIS 424 files, you're in luck (if he hasn't changed them).
 
 **Please do not post this on any forums, Facebook pages, Subreddits, etc!**
 
