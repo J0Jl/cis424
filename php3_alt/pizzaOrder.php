@@ -55,7 +55,7 @@ $pass_finite = filter_input(INPUT_POST, 'pass_finite', FILTER_VALIDATE_FLOAT);
             <br>
 
             <label>Email:</label>            
-            <input type="email" name="email" value="<?php echo htmlspecialchars($email); ?>">
+            <input type="text" name="email" value="<?php echo htmlspecialchars($email); ?>">
             <br>
             <label>Password:</label>            
             <input type="password" name="password" value="<?php echo htmlspecialchars($password); ?>">
