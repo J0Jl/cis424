@@ -1,0 +1,10 @@
+For the assignment:
+--Added age,city,state
+--Added code to print what category age was under
+--removed doPost from doGet in EmailListServlet.java
+
+The files you will be mainly editting will be:
+--/index.html
+--/thanks.jsp
+--/src/murach/email/EmailListServlet.java
+--/src/murach/business/User.java
