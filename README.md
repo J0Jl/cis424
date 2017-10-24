@@ -1,5 +1,7 @@
 # cis424
-If you came here looking for CIS 424 files, you're in luck (if he hasn't changed them).
+Documentation of CIS 424 Coursework (If you're going to take it, try to change it up, PLEASE!)
+
+You're in luck if you found this. I didn't think it would show up on Google Search
 
 **Please do not post this on any forums, Facebook pages, Subreddits, etc!**
 
