@@ -6,4 +6,4 @@ You're in luck if you found this. I didn't think it would show up on Google Sear
 **Please do not post this on any forums, Facebook pages, Subreddits, etc!**
 
 
-**Please keep future students in mind. Don't just C+P and submit. Change up some $values or move around some if() statements.**
+**Please keep your future in mind. Don't just C+P and submit. Change up some $values or move around some if() statements.**
